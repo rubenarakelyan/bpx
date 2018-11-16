@@ -1,0 +1,8 @@
+BPX Changelog
+=============
+
+0.3.1
+-----
+ - Cleaned up code
+ - Modified author details
+ - Relicensed under GNU GPL 3 or later

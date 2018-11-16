@@ -1,0 +1,15 @@
+BPXMCU Changelog
+================
+
+0.1.2
+-----
+ - Modified author details
+ - Relicensed under GNU GPL 3 or later
+
+0.1.1
+-----
+ - Added seconds to jiffys and vice versa
+
+0.1.0
+-----
+ - First released version
